@@ -19,6 +19,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@octokit/rest": "^20.1.1",
     "bl": "~4.0.0"
   },
   "devDependencies": {
